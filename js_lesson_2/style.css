@@ -1,0 +1,14 @@
+.target {
+    background: #d2efee;
+}
+.target div {
+    margin: 5px;
+    border: solid;
+    border-radius: 50px;
+    padding: 50px;
+}
+.target p {
+    background: #b9bbb6;
+    border-radius: 25px;
+    padding: 25px;
+}
