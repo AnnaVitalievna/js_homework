@@ -1,0 +1,12 @@
+.product-card img {
+    border-radius: 60px;
+    border: solid 20px;
+    border-color: #f1eece;
+    height: 200px;
+    width: 200px;
+}
+.product-title {
+    background-color: #cff1ee;
+    margin-left: 50px;
+    text-align: center;
+}
